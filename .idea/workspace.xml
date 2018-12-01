@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92811816-44fc-42d9-a43c-e1d038ebbe34" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CostCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CostCalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PaginatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PaginatorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,12 +35,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
+          <entry key="gradle" value="1" />
           <entry key="java" value="11" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Groovy" value="1" />
           <entry key="JAVA" value="11" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -43,13 +51,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="java" value="2000" />
+          <entry key="gradle" value="1" />
+          <entry key="java" value="2478" />
           <entry key="md" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2000" />
+          <entry key="Groovy" value="1" />
+          <entry key="JAVA" value="2478" />
           <entry key="Markdown" value="34" />
           <entry key="PLAIN_TEXT" value="14" />
         </counts>
@@ -93,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CostCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            <state relative-caret-position="187">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding>
                 <element signature="e#71#72#0" expanded="true" />
                 <element signature="e#112#113#0" expanded="true" />
@@ -105,11 +115,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+            <state relative-caret-position="295">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -117,8 +139,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/NaiveCompressorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="136">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#274#275#0" expanded="true" />
@@ -128,11 +150,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/PaginatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+            <state relative-caret-position="380">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -171,7 +193,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\AP\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\AP\.gradle\wrapper\dists\gradle-4.8-all\41c9mvq2w0645xx6nsenaerjl\gradle-4.8" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -346,8 +368,10 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6174620545156" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="1943543070" />
+        <entry key="$PROJECT_DIR$" value="6174657761285" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="1560217446" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2585518924" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="4273172481" />
       </map>
     </option>
@@ -370,83 +394,153 @@
               <option name="name" value="sms_compression" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/ant-1.9.11.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-base-services-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-build-option-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-cli-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-core-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-core-api-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-docs-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-launcher-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-logging-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-messaging-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-model-core-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-native-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-process-services-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-resources-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/groovy-all-2.4.12.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-option" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/core-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/persistent-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-gcs" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-junit-platform" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/version-control" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/workers" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
                 </list>
               </option>
             </ExternalProjectBuildClasspathPojo>
@@ -476,12 +570,13 @@
         <option value="$PROJECT_DIR$/src/main/java/CostCalculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/NaiveCompressorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/CostCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/PaginatorTest.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/CostCalculatorTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="21" />
     <option name="width" value="1440" />
     <option name="height" value="879" />
@@ -548,7 +643,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543670197429" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543674503435" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -562,10 +657,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NaiveCompressorTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="sms_compression_main" />
+  <component name="RunManager" selected="JUnit.CostCalculatorTest">
+    <configuration name="CostCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sms_compression_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CostCalculatorTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -578,50 +674,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NaiveCompressorTest.testNaiveCompressorLongCompress" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="sms_compression_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NaiveCompressorTest" />
-      <option name="METHOD_NAME" value="testNaiveCompressorLongCompress" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NaiveCompressorTest.testNaiveCompressorUpperCaseCompress" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="sms_compression_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NaiveCompressorTest" />
-      <option name="METHOD_NAME" value="testNaiveCompressorUpperCaseCompress" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PaginatorTest.testPaginatorLongSentance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PaginatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="sms_compression_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PaginatorTest" />
-      <option name="METHOD_NAME" value="testPaginatorLongSentance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaginatorTest.testEmptyPaginator4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sms_compression_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PaginatorTest" />
+      <option name="METHOD_NAME" value="testEmptyPaginator4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaginatorTest.testPaginator160ShortSentance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sms_compression_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PaginatorTest" />
+      <option name="METHOD_NAME" value="testPaginator160ShortSentance" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.PaginatorTest.testPaginatorLongSentance" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.NaiveCompressorTest.testNaiveCompressorLongCompress" />
-      <item itemvalue="JUnit.NaiveCompressorTest.testNaiveCompressorUpperCaseCompress" />
       <item itemvalue="JUnit.NaiveCompressorTest" />
+      <item itemvalue="JUnit.PaginatorTest" />
+      <item itemvalue="JUnit.PaginatorTest.testPaginator160ShortSentance" />
+      <item itemvalue="JUnit.PaginatorTest.testEmptyPaginator4" />
+      <item itemvalue="JUnit.CostCalculatorTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CostCalculatorTest" />
+        <item itemvalue="JUnit.PaginatorTest.testEmptyPaginator4" />
+        <item itemvalue="JUnit.PaginatorTest.testPaginator160ShortSentance" />
+        <item itemvalue="JUnit.PaginatorTest" />
         <item itemvalue="JUnit.NaiveCompressorTest" />
-        <item itemvalue="JUnit.NaiveCompressorTest.testNaiveCompressorUpperCaseCompress" />
-        <item itemvalue="JUnit.NaiveCompressorTest.testNaiveCompressorLongCompress" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.PaginatorTest.testPaginatorLongSentance" />
       </list>
     </recent_temporary>
   </component>
@@ -639,21 +733,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NaiveCompressorTest_testNaiveCompressorShortCompress - 2018.12.01 at 13h 28m 48s.xml">
-      <configuration name="NaiveCompressorTest.testNaiveCompressorShortCompress" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PaginatorTest_testPaginator - 2018.12.01 at 13h 38m 39s.xml">
-      <configuration name="PaginatorTest.testPaginator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PaginatorTest_testEmptyPaginator - 2018.12.01 at 13h 39m 58s.xml">
-      <configuration name="PaginatorTest.testEmptyPaginator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PaginatorTest_testEmptyPaginator - 2018.12.01 at 13h 44m 35s.xml">
-      <configuration name="PaginatorTest.testEmptyPaginator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PaginatorTest_testPaginatorLongSentance - 2018.12.01 at 13h 52m 18s.xml">
-      <configuration name="PaginatorTest.testPaginatorLongSentance" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PaginatorTest_testPaginatorLongSentance - 2018.12.01 at 13h 52m 36s.xml">
       <configuration name="PaginatorTest.testPaginatorLongSentance" configurationId="JUnit" />
     </history-entry>
@@ -669,6 +748,21 @@
     <history-entry file="NaiveCompressorTest - 2018.12.01 at 14h 12m 45s.xml">
       <configuration name="NaiveCompressorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PaginatorTest - 2018.12.01 at 14h 50m 48s.xml">
+      <configuration name="PaginatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PaginatorTest - 2018.12.01 at 14h 52m 39s.xml">
+      <configuration name="PaginatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PaginatorTest_testPaginator160ShortSentance - 2018.12.01 at 14h 54m 23s.xml">
+      <configuration name="PaginatorTest.testPaginator160ShortSentance" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PaginatorTest_testEmptyPaginator4 - 2018.12.01 at 14h 54m 36s.xml">
+      <configuration name="PaginatorTest.testEmptyPaginator4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CostCalculatorTest - 2018.12.01 at 15h 26m 21s.xml">
+      <configuration name="CostCalculatorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -680,7 +774,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -688,7 +782,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24939272" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" weight="0.3291815" />
@@ -697,8 +791,8 @@
       <window_info anchor="bottom" id="Messages" weight="0.3291815" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3291815" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985765" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291815" />
@@ -814,38 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/NaiveCompressorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CostCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding>
-            <element signature="e#71#72#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Paginator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -861,8 +923,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PaginatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="380">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NaiveCompressorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CostCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#71#72#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

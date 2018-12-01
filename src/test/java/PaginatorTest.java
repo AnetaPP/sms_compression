@@ -26,7 +26,7 @@ public class PaginatorTest extends TestCase {
     @Test
     public void testEmptyPaginator4(){
         String text = "";
-        String exp = "";
+        String[] exp = {null};
         assertEquals(exp, p4.paginate(text));
     }
 
@@ -34,7 +34,7 @@ public class PaginatorTest extends TestCase {
     public void testPaginator160ShortSentance(){
 
         String text = "AlaMaKota.";
-        String exp = "AlaMaKota.";
+        String[] exp = {"AlaMaKota."};
         assertEquals(exp, p160.paginate(text));
     }
     @Test
