@@ -19,7 +19,7 @@ public class PaginatorTest extends TestCase {
     public void testPaginator4ShortSentance(){
 
         String text = "AlaMaKota.";
-        String[] arr = {"Alam", "akot", "a."};
+        String[] arr = {"AlaM", "aKot", "a."};
         assertEquals(arr, p4.paginate(text));
     }
 
@@ -37,9 +37,8 @@ public class PaginatorTest extends TestCase {
         String exp = "AlaMaKota.";
         assertEquals(exp, p160.paginate(text));
     }
-//    @Test
-//    public void testPaginatorLongSentance(){
-//        File lorem = new File("C:/JAVA/Prezentacje/lorem ipsum.txt");
-//        System.out.println(lorem);
-//    }
+    @Test
+    public void testPaginatorLongSentance(){
+
+    }
 }
